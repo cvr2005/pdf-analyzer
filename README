@@ -1,0 +1,37 @@
+# 📄 Smart AI PDF Analyzer (Gemini)
+
+Smart AI PDF Analyzer is a Streamlit-based web app that allows users to upload PDF files, extract text, and ask AI-powered questions about the content using **Google Gemini 2.5 Pro**.  
+It’s a clean, modern, and interactive way to understand and summarize any PDF document.
+
+---
+
+## 🚀 Features
+
+- 📂 Upload any PDF file
+- 🔍 AI-powered content analysis using **Gemini 2.5 Pro**
+- 🧠 Ask natural language questions about your PDF
+- 💬 Get intelligent, contextual answers instantly
+- 🎨 Modern UI with gradient background and styled buttons
+- 🧱 Built using **Streamlit**, **PyPDF2**, and **Google Generative AI**
+
+---
+
+## 🛠️ Tech Stack
+
+| Component      | Technology            |
+| -------------- | --------------------- |
+| Frontend       | Streamlit             |
+| Backend        | Python                |
+| AI Model       | Google Gemini 2.5 Pro |
+| PDF Processing | PyPDF2                |
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/pdf-analyzer-gemini.git
+cd pdf-analyzer-gemini
+```
