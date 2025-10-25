@@ -74,7 +74,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
     st.warning("⚠️ GEMINI_API_KEY not found. Please set it in your environment.")
 else:
-    genai.configure(api_key=GEMINI_API_KEY)
+    genai.configure(api_key="AIzaSyA-ShdHuK0x0b5CH5Qry2VTENx0PevaS8U")
 
 # -------------------------------
 # Main Page Header
